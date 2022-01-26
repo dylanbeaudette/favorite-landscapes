@@ -7,3 +7,10 @@
  * 
 
 
+# Favorite Map Units
+
+  * https://soilmap2-1.lawr.ucdavis.edu/soil_web/list_components.php?mukey=623408
+  * https://casoilresource.lawr.ucdavis.edu/soil_web/list_components.php?mukey=523295
+  * https://soilmap2-1.lawr.ucdavis.edu/soil_web/list_components.php?mukey=779363
+  * https://soilmap2-1.lawr.ucdavis.edu/soil_web/list_components.php?mukey=1691509
+  * 
