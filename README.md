@@ -31,3 +31,5 @@
 
 
 [RcA](https://casoilresource.lawr.ucdavis.edu/gmap/?loc=40.45841,-122.34905,z16) → [NeE2](https://casoilresource.lawr.ucdavis.edu/gmap/?loc=40.45841,-122.34671,z16) → [Ad](https://casoilresource.lawr.ucdavis.edu/gmap/?loc=40.45830,-122.34487,z16)
+  
+![rca_nee2_ad](https://user-images.githubusercontent.com/29885555/162848967-4f6c60a7-7cdb-416d-98eb-584c4e36adc7.png)
