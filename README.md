@@ -30,4 +30,4 @@
 ![image](https://user-images.githubusercontent.com/624277/162069180-d695f213-0632-4639-ba59-cb12d3de9dd1.png)  
 
 
-[RcA](https://casoilresource.lawr.ucdavis.edu/gmap/?loc=40.45841,-122.34905,z16) → [NeE2](https://casoilresource.lawr.ucdavis.edu/gmap/?loc=40.45841,-122.34671,z16) → [Ad](https://casoilresource.lawr.ucdavis.edu/gmap/?loc=40.45830,-122.34487,z16) → [Gp](https://casoilresource.lawr.ucdavis.edu/gmap/?loc=40.45838,-122.34261,z16)
+[RcA](https://casoilresource.lawr.ucdavis.edu/gmap/?loc=40.45841,-122.34905,z16) → [NeE2](https://casoilresource.lawr.ucdavis.edu/gmap/?loc=40.45841,-122.34671,z16) → [Ad](https://casoilresource.lawr.ucdavis.edu/gmap/?loc=40.45830,-122.34487,z16)
