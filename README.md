@@ -10,6 +10,7 @@
  * https://casoilresource.lawr.ucdavis.edu/gmap/?loc=37.39904,-85.25541,z15
  * https://casoilresource.lawr.ucdavis.edu/gmap/?loc=37.63323,-85.37025,z15
  * https://casoilresource.lawr.ucdavis.edu/gmap/?loc=32.82335,-106.41924,z13
+ * https://casoilresource.lawr.ucdavis.edu/gmap/?loc=38.89203,-90.41491,z14
 
 
 # Favorite Map Units
