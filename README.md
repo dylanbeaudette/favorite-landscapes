@@ -42,6 +42,7 @@ TODO: use something more stable than map unit keys
   * https://soilmap4-1.lawr.ucdavis.edu/soil_web/list_components.php?mukey=545159
   * https://casoilresource.lawr.ucdavis.edu/soil_web/list_components.php?mukey=374354
   * https://soilmap4-1.lawr.ucdavis.edu/soil_web/list_components.php?mukey=106501
+  * https://casoilresource.lawr.ucdavis.edu/soil_web/list_components.php?mukey=328101
 
 
 
