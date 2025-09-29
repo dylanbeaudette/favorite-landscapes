@@ -19,6 +19,7 @@
  * https://casoilresource.lawr.ucdavis.edu/gmap/?loc=48.63467,-99.20551,z14
  * https://soilmap4-1.lawr.ucdavis.edu/gmap/?loc=39.92735,-77.49091,z15
  * https://soilmap4-1.lawr.ucdavis.edu/gmap/?loc=66.19927,-148.34702,z13
+ * https://casoilresource.lawr.ucdavis.edu/gmap/?loc=33.86015,-91.09640,z13
 
 
 # Favorite Map Units
@@ -43,6 +44,7 @@ TODO: use something more stable than map unit keys
   * https://casoilresource.lawr.ucdavis.edu/soil_web/list_components.php?mukey=374354
   * https://soilmap4-1.lawr.ucdavis.edu/soil_web/list_components.php?mukey=106501
   * https://casoilresource.lawr.ucdavis.edu/soil_web/list_components.php?mukey=328101
+  * https://casoilresource.lawr.ucdavis.edu/soil_web/list_components.php?mukey=567509
 
 
 
